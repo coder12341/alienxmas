@@ -228,6 +228,11 @@ header .container {
   transform: translate(15%, 25px);
 }
 
+.trailer {
+  width: 90%;
+  transform: translate(15%, 25px);
+}
+
 .toggle-btn {
   display: inline-block;
   border: none;
